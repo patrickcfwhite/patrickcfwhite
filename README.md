@@ -1,6 +1,8 @@
 # Patrick White
 
-Hey! I'm Patrick! (He/Him) I'm a former musician now working as a Web Developer. 
+Hey! I'm Patrick! (He/Him) I'm a former musician now working as a Web Developer.
+
+- 🏢 I'm contracting as a Full Stack Engineer at a sports training company.
 
 - 🔭 I’m currently working on an app to host a sandwich competition for a whatsapp group (...don't ask), and also a guitar tuner.
 
