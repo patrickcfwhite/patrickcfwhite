@@ -2,13 +2,13 @@
 
 Hey! I'm Patrick! (He/Him) I'm a former musician now working as a Web Developer.
 
-- 🏢 I'm contracting as a Full Stack Engineer at a sports training company.
+- 🏢 I'm working as a Full Stack Engineer at a publishing company.
 
 - 🔭 I’m currently working on an app to host a sandwich competition for a whatsapp group (...don't ask), and also a guitar tuner.
 
-- 🌱 I’m currently learning more about TypeScript and Go.
+- 🌱 I’m currently learning more about C# and THREE.js.
 
-- 👯 I’m looking to collaborate on anything really! I just want to keep learning and meeting new people in the industry so please get in touch here or on twitter (@patrickcfwhite).
+- 👯 I’m looking to collaborate on anything really! I just want to keep learning and meeting new people in the industry so please get in touch here or on twitter (@patrickcfwhite). p.s. I don't post a great deal about code so hopefully you're a Sheffield United fan as well.
 
 - 🤔 I’m looking for help with the overlap between JS and Music/creative applications of coding.
 
