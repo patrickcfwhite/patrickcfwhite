@@ -2,7 +2,7 @@
 
 Hey! I'm Patrick! (He/Him) I'm a Software Engineer with a background in the creative industries.
 
-- 🏢 I'm working as a Full Stack Engineer at an Events tech company.
+- 🏢 I'm working as a Full Stack Engineer at a Fintech company.
 
 - 🌱 I’m currently learning more about Elixir and THREE.js.
 
